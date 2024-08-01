@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 📧 wenming.fu@pacvue.com
 
-➡️ Personal account - https://github.com/wynn5a
 <p align="left">
 </p>
 
